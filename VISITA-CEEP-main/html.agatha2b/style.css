@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.principal {
+    margin: auto;
+    display: grid;
+    margin-top: 20%;
+}  
+
+#number {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.titulo {
+    font-size: 40px
+}
+
+.botao {
+    color: aliceblue;
+    font-size: 18px;
+  font-weight: 600;
+  background-color: rgba(149, 16, 16, 0.887);
+  border-radius: 5px;
+  border: 0;
+  padding: 10px 60px;
+  cursor: pointer;
+  
+}
